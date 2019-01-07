@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/MichaelTong1/blog#readme",
   "dependencies": {
+    "ejs": "^2.6.1",
     "express": "^4.16.4"
   }
 }
